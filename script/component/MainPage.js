@@ -4,7 +4,7 @@ const MainPage = {
         <div class="container" id="app">
             <nav class="navbar navbar-expand navbar-light bg-light">
                 <!--<img src="image/logo-large.png" width="10%" height="10%">-->
-                <a class="navbar-brand" href="#">Vesper</a>
+                <a class="navbar-brand" href="/">Vesper</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
